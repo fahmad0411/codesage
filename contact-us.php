@@ -59,7 +59,7 @@ include "includes/header.php";
 							</div>
 							<div class="cda-content-inner">
 								<h4>Company Location</h4>
-								<p>Governor House Lahore</p>
+								<p>Mississauga ON, Ontario</p>
 							</div>
 						</div>
 						<div class="cda-single-content hr d-flex">
@@ -68,7 +68,7 @@ include "includes/header.php";
 							</div>
 							<div class="cda-content-inner">
 								<h4>Phone Number</h4>
-								<p>+92 322 408 1157,  <br>+92 335 451 9503, </p>
+								<p>+92 322 408 1157,  <br>+1 437 262 3308, </p>
 							</div>
 						</div>
 						<div class="cda-single-content hr d-flex">
@@ -77,7 +77,7 @@ include "includes/header.php";
 							</div>
 							<div class="cda-content-inner">
 								<h4>Our Email Address</h4>
-								<p>support@Nevysoft.com <br>ammarnaeem04@gmail.com</p>
+								<p>support@codesage.ca <br>dummy@gmail.com</p>
 							</div>
 						</div>
 						<div class="cda-single-content hr d-flex">
@@ -95,7 +95,7 @@ include "includes/header.php";
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-lg-12 p-0">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3399.8037060455376!2d74.33236391515145!3d31.55700128135756!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x391904b5fcaf7a89%3A0xf99026594ba32c37!2sGovernor&#39;s%20House%2C%20Lahore%2C%20Punjab!5e0!3m2!1sen!2s!4v1626464879751!5m2!1sen!2s" width="1920" height="350" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d184985.77678765866!2d-79.49434774999999!3d43.57732645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x882b469fe76b05b7%3A0x3146cbed75966db!2sMississauga%2C%20ON!5e0!3m2!1sen!2sca!4v1725305114381!5m2!1sen!2sca" width="1920" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 				</div>
 			</div>
 		</div>

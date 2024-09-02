@@ -65,27 +65,27 @@
 								<div class="header-top-left-icon">
 									<span>
 										<i class="far fa-envelope"></i>
-										support@Nevysoft.com
+										support@codesage.ca
 									</span>
 								</div>
 							</a>
 						</div>
 						<div class="header-top-left-single-item">
-							<a target="blank" href="https://goo.gl/maps/VHhQ6BPoqP9hDxiC8">
+							<a target="blank" href="https://maps.app.goo.gl/XiCAUkK4U9A2KafZ9">
 								<div class="header-top-left-icon">
 									<span>
 										<i class="fas fa-street-view"></i>
-										Gulberg Lahore
+										Mississauga ON, Canada
 									</span>
 								</div>
 							</a>
 						</div>
 						<div class="header-top-left-single-item">
-							<a href="tel:03224081157">
+							<a href="tel:+14372623308">
 								<div class="header-top-left-icon">
 									<span>
 										<i class="fas fa-phone"></i>
-										+309 454 4000
+										+1 437 262 3308
 									</span>
 								</div>
 							</a>

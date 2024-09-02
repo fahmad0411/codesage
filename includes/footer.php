@@ -57,9 +57,9 @@
 							<div class="footer-widget-title">
 								<h5>Contacts</h5>
 							</div>
-							<p><b>Adress: </b>Governor House Punjab Lahore</p>
-							<p><b>Phone: </b> +92 322 408 1157 <br>Phone: +92 335 451 9503</p>
-							<p><b>Email: </b> support@Nevysoft.com <br> Website: Nevysoft.com</p>
+							<p><b>Address: </b>Mississauga ON, Canada</p>
+							<p><b>Phone: </b> +92 322 408 1157 <br>Phone: +1 437 262 3308</p>
+							<p><b>Email: </b> support@codesage.ca <br> Website: codesage.ca</p>
 						</div>
 					</div>
 				</div>

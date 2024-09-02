@@ -400,7 +400,7 @@ include "includes/header.php";
 			<div class="col-lg-12">
 				<div class="d-flex justify-content-center mt-5">
 					<div class="btn-common btn-hero">
-						<a href="project.html" class="btn btn-primary">Load More</a>
+						<a href="project.php" class="btn btn-primary">Load More</a>
 					</div>
 			</div>
 			</div>
